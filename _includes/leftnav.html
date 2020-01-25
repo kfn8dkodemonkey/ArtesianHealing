@@ -66,7 +66,7 @@
   <h3><i class="fas fa-archive pr-3"></i>Past Post</h3>
   <div class="list-group">
     {% for post in site.categories.blog %}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.url }}" class="list-group-item">{{ post.title }}</a>
     {% endfor %}
   </div>
 {% endif %}

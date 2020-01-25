@@ -3,7 +3,7 @@ layout: post
 title: Hemp The Powerhouse Plant
 date: 2020-01-24
 category: blog
-permalink: /blog/:categories/:title:output_ext
+permalink: /blog/:title/
 ---
 
 <p>CBD is not only safe but is an extremely powerful plant for health and wellness. Studies from the World Health Organisation (WHO) reveal that CBD has no adverse health effects. Although CBD is the most noted molecular in hemp there are many others that can contribute to the plant making it a powerhouse of health and wellness.</p>
