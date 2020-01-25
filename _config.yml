@@ -21,10 +21,12 @@
 title: Artesian Healing
 email: info@artesianhealing.com
 description: >- # this means to ignore newlines until "baseurl:"
-  It is our passion to offer the best in natures healing products as we can.
-  We beleive healing starts with the soul and what we put into our body. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Selling products disigned to help strighthen the mind, body, and soul.
+
+tagline: The holistic aproch
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kfn8dkodemonkey.github.io/ArtesianHealing" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -32,6 +34,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

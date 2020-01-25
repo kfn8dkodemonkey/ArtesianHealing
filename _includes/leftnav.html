@@ -1,0 +1,72 @@
+
+{% if page.category == "store" %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h2 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            Health & Wellness
+          </button>
+        </h2>
+      </div>
+
+      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <ul>
+            <li><a href="{{site.url}}/store/health-wellness/tintures">Tintures</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/pain-relief">Pain Relief</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/supplements">Supplements</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/skin-hair">Skin & Hair</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/pets">Pets</a></li>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwo">
+        <h2 class="mb-0">
+          <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            Education
+          </button>
+        </h2>
+      </div>
+      <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+        <div class="card-body">
+          <ul>
+            <li><a href="{{site.url}}/education">Coming Soon</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingThree">
+        <h2 class="mb-0">
+          <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            Accessories
+          </button>
+        </h2>
+      </div>
+      <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+        <div class="card-body">
+          <ul>
+            <li><a href="{{site.url}}/accessories">Coming Soon</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+{% elsif page.category == "page" %}
+  <div class="list-group">
+    <a href="{{site.url}}/about/lab-reports" class="list-group-item">Lab Reports</a>
+    <a href="{{site.url}}/about/return-policy" class="list-group-item">Return Policy</a>
+    <a href="{{site.url}}/about/privacy-policy" class="list-group-item">Privacy Policy</a>
+    <a href="{{site.url}}/about/terms-conditions" class="list-group-item">Terms and Conditions</a>
+    <!--<a href="{{site.url}}/about/ada-statment" class="list-group-item">ADA Statment</a> -->
+  </div>
+{% elsif page.category == "blog" %}
+  <h3><i class="fas fa-archive pr-3"></i>Past Post</h3>
+  <div class="list-group">
+    {% for post in site.categories.blog %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="list-group-item">{{ post.title }}</a>
+    {% endfor %}
+  </div>
+{% endif %}

@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 # Gethub Pages
 gem "github-pages", group: :jekyll_plugins
+
+# jekyll sitemap
+# gem 'jekyll-sitemap'

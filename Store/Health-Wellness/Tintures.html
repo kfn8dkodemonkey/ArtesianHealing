@@ -1,0 +1,41 @@
+---
+layout: store
+title: Health & Wellness
+subtitle: Tintures
+category: store
+permalink: store/health-wellness/tintures
+---
+
+<div class="row">
+  {% for product in site.data.cbd-tintures %}
+  <div class="col-lg-6">
+    <div class="card mb-3">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img src="{{site.url}}/assets/images/product/{{product.image}}" alt="{{product.name}}" class="card-img mt-5">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">{{product.name}}</h5>
+            <h4>${{product.price}}</h4>
+            <p class="card-text">{{product.description}}</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+            <button class="ml-5 btn btn-sm btn-danger snipcart-add-item"
+              data-item-id="{{product.id}}"
+              data-item-price="{{product.price}}"
+              data-item-url="{{site.url}}/store"
+              data-item-description="{{product.description}}"
+              data-item-image="{{site.url}}/assets/images/product/{{product.image}}"
+              data-item-name="{{product.name}}">
+              Buy Now!
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<!-- /.row -->

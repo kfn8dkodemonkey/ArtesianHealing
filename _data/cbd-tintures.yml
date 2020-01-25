@@ -1,0 +1,79 @@
+---
+
+# CTFO - 10xPure
+- id: CBD-10x-Tintures-Full-Spectrum-1500mg
+  price: 210.97
+  description: This supercharged Full Spectrum CBD oil is hydrophilic, making it easily absorbed into the body. It provides accelerated, increased absorption and potency and acts as an anti-bacterial and prebiotic.
+  image: /CTFO/CTFO-10pure1500.png
+  name: 10xPURE Full Spectrum CBD Drops – 1500mg
+  category: new
+
+- id: CBD-10x-Tintures-Super-1000mg
+  price: 157.97
+  description: Our patented 10xPURE™ oil process is enriched with CBDa and includes a proprietary blend of full spectrum cannabinoids. 10xPURE-GOLD Super 1000 contains a minimum of 6 mgs of CBDa per serving, over 10 times more than what might be found in most CBD products on the market.
+  image: /CTFO/CTFO-super1000.png
+  name: 10xPURE-GOLD Super - 1000mg
+  category: new
+
+- id: CBD-10x-Tintures-Full-Spectrum-500mg
+  price: 130.97
+  description: This supercharged Full Spectrum CBD oil is hydrophilic, making it easily absorbed into the body. It provides accelerated, increased absorption and potency and acts as an anti-bacterial and prebiotic.
+  image: /CTFO/CTFO-10xpure.png
+  name: 10xPURE Full Spectrum CBD Drops – 500mg
+  category: new
+
+# CTFO Full Spectrum
+- id: CBD-Tintures-Full-Spectrum-1500mg
+  price: 130.97
+  description: Contain high potency Industrial Hemp. CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve anxiety, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-oildrops1500mg.jpg
+  name: Full Spectrum CBD Drops - 1500mg
+  category: new
+
+- id: CBD-Tintures-Full-Spectrum-750mg
+  price: 90.97
+  description: Contain high potency Industrial Hemp. CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve anxiety, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-oildrops750mg.jpg
+  name: Full Spectrum CBD Drops - 750mg
+
+- id: CBD-Tintures-Full-Spectrum-500mg
+  price: 80.97
+  description: Contain high potency Industrial Hemp. CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve anxiety, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-oildrops500mg.jpg
+  name: Full Spectrum CBD Drops - 500mg
+
+- id: CBD-Tintures-Full-Spectrum-300mg
+  price: 65.97
+  description: Contain high potency Industrial Hemp. CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve anxiety, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-oildrops300mg.jpg
+  name: Full Spectrum CBD Drops - 300mg
+
+
+# CTFO Isolate
+- id: CBD-Tintures-Isolate-1500mg
+  price: 130.97
+  description: CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve feelings of high stress, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-isolate1500mg.jpg
+  name: CTFO - Isolate CBD Oil Drops - 1500mg
+
+- id: CBD-Tintures-Isolate-500mg
+  price: 80.97
+  description: CBD has been known to support healthy blood sugar levels, promote healthy energy levels, relieve feelings of high stress, aid in digestion, support optimal immune function and the regeneration of healthy cells as well as promote a sense of serenity and overall well-being.
+  image: /CTFO/CTFO-isolate500mg.jpg
+  name: CTFO - Isolate CBD Oil Drops - 500mg
+
+
+# Absolute Natural
+- id: CBD-Tintures-Full-Spectrum-1000mg
+  price: 99.99
+  description: Our beautifully crafted 100% natural un-adulterated premium quality CBD Tinctures are made with non-GMO hemp, grown in Colorado by local farmers. Our hemp oil is minimally processed, following the highest standards at every step of growing, harvesting, extraction and bottling process.
+  image: /Absolute-Natural/DSAN-1000mg-full-spectrum-cbd-oil-new-label-2020.png
+  name: Full Spectrum - 1000mg
+  category: new
+
+- id: CBD-Tintures-Full-Spectrum-500mg
+  price: 59.99
+  description: Our premium quality CBD Tinctures are made with non-GMO hemp, grown in Colorado by local farmers. Our hemp oil is minimally processed, following the highest standards at every step of growing, harvesting, extraction and bottling process.
+  image: /Absolute-Natural/DSAN-Full-Spectrum-500mg-CBD-Oil-Tincture-30ml-new-2020.png
+  name: Full Spectrum - 500mg
+  category: new

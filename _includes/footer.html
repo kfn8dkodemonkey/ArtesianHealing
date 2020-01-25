@@ -1,0 +1,92 @@
+<footer class="footer mt-auto py-2 bg-dark text-white">
+  <div class="bg-dark pt-3 pl-3 text-light text-center">
+    <p class="small"><em>These statements have not been evaluated by the FDA and are not intended to diagnose, treat or cure
+    any disease, always check with your physician before starting a new dietary supplement program.</em</p>
+  </div>
+</footer>
+<footer class="footer mt-auto py-3 bg-blue text-white">
+  <div class="row pl-5">
+    <div class="col-lg-2">
+      <h4 class="text-uppercase">Contact</h4>
+      <address>Artesian Healing<br />
+      Phone: 720-608-1777<br />
+      Email: info@artesianhealing.online<br />
+      Location: USA, Colorado</address>
+      <hr />
+      <!-- <p><a href="{{site.facebook}}"<i class="fab fa-facebook-square"></i></a>
+      <a href="{{site.twitter}}"<i class="fab fa-twitter-square"></i></a>
+      <a href="{{site.instagram}}"<i class="fab fa-instagram"></i></a>
+      <a href="{{siate.pinterest}}"<i class="fab fa-pinterest-square"></i></a></p>
+      <hr /> -->
+      <h4 class="text-uppercase">Newsletter</h4>
+      {% include Newsletter.html %}
+    </div>
+    <div class="col-lg-5 border-left">
+      <h4 class="text-uppercase text-center">Store</h4>
+      <div class="row">
+        <div class="col-lg-4">
+          <h5>Health & Wellness</h5>
+          <ul>
+            <li><a href="{{site.url}}/store/health-wellness/tintures">Tintures</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/pain-relief">Pain Relief</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/supplements">Supplements</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/skin-hair">Skin & Hair</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/pets">Pets</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <h5>Education</h5>
+          <ul>
+            <li><a href="{{site.url}}/education">Business Opportunities</a></li>
+            <li><a href="{{site.url}}/education">Training & Classes</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-4">
+          <h5>Accessories</h5>
+          <ul>
+            <li><a href="{{site.url}}/accessories">Yoga & Meditation</a></li>
+            <li><a href="{{site.url}}/accessories">Apparle</a></li>
+            <li><a href="{{site.url}}/accessories">Misc Gifts</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-3 border-left">
+      <h4 class="text-uppercase text-center text-warning"><strong>New Items</strong></h4>
+      {% include newitems.html %}
+
+    </div>
+    <div class="col-lg-2 border-left">
+      <h4 class="text-uppercase">Latest Post</h2>
+        <ul class="fa-ul">
+        {% for post in site.posts limit:5 %}
+          <li><span class="fa-li" ><i class="far fa-check-circle"></i></span><a href="{{site.url}}{{ post.url }}">{{post.title}}</a></li>
+        {% endfor %}
+      </ul>
+
+    </div>
+  </div>
+</footer>
+<footer class="footer pt-3 px-3 bg-dark text-white">
+  <div class="row">
+    <div class="col-lg-9">
+      <p class="m-0">Copyright &copy; Artisean Healing 2020 | Designed by <a href="https://www.kaffeinatedkkodemonkey.com" target="_blank">Kaffeinated Kodemonky</a></p>
+    </div>
+    <div class="col-lg-3">
+      <p><a href="{{site.url}}/sitemap.html">Sitemap</a> | <a href="{{site.url}}/about/terms-conditions">Terms & Conditions</a> | <a href="{{site.url}}/about/privacy-policy">Privacy Policy</a> <!--| <a href="{{site.url}}/about/accessibility-statement">Accessibility Statment</a>--></p>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Snipcart -->
+<div hidden id="snipcart" data-api-key="NDA5ZDEwYTItMmRmMi00N2I1LWIxNDktNjgzZjk2NmNkNWNiNjM3MTQ2MzAyNTEyNzEyMDA3"></div>
+<script src="https://cdn.snipcart.com/themes/v3.0.5/default/snipcart.js"></script>
+<!-- Facebook Pugin -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0&appId=194904660574494&autoLogAppEvents=1"></script>
+<!-- Bootstrap -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
