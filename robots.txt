@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: .sass-cache
+Disallow: .jekyll-cache
+Disallow: .jekyll-metadata
+Disallow: vendor
