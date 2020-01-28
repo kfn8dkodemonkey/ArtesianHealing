@@ -7,13 +7,13 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/blog</loc>
+      <loc>https://www.artesianhealing.online/store/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/store/</loc>
+      <loc>https://www.artesianhealing.online/blog</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -25,43 +25,25 @@
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/about/privacy-policy</loc>
-      <lastmod>2020-01-25</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.artesianhealing.online/store/health-wellness/pets</loc>
-      <lastmod>2020-01-25</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://www.artesianhealing.online/store/health-wellness/skin-hair</loc>
-      <lastmod>2020-01-25</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
       <loc>https://www.artesianhealing.online/about/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/about/terms-conditions</loc>
+      <loc>https://www.artesianhealing.online/store/health-wellness/pets/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/blog/The-Powerhouse-Plant/</loc>
+      <loc>https://www.artesianhealing.online/store/health-wellness/skin-hair/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/store/health-wellness/tintures</loc>
+      <loc>https://www.artesianhealing.online/about/privacy-policy</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -73,13 +55,31 @@
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/store/health-wellness/supplements</loc>
+      <loc>https://www.artesianhealing.online/blog/The-Powerhouse-Plant/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>https://www.artesianhealing.online/store/health-wellness/pain-relief</loc>
+      <loc>https://www.artesianhealing.online/about/terms-conditions</loc>
+      <lastmod>2020-01-25</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://www.artesianhealing.online/store/health-wellness/tintures/</loc>
+      <lastmod>2020-01-25</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://www.artesianhealing.online/store/health-wellness/pain-relief/</loc>
+      <lastmod>2020-01-25</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   <url>
+      <loc>https://www.artesianhealing.online/store/health-wellness/supplements/</loc>
       <lastmod>2020-01-25</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
