@@ -68,7 +68,7 @@ a.skip-main:focus, a.skip-main:active {
 }
 
 a{
-  text-decoration: underline;
+
   color: #3A8340;
 }
 a:focus, a:hover{
@@ -80,6 +80,7 @@ a:focus, a:hover{
 
 footer a, .footer a{
   color: #83C98C;
+  text-decoration: underline;
 }
 
 footer a:visited, .footer a:visited {
