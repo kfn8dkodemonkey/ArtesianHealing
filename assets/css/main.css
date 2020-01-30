@@ -66,3 +66,29 @@ a.skip-main:focus, a.skip-main:active {
     font-size:1.2em;
     z-index:999;
 }
+
+a{
+  text-decoration: underline;
+  color: #3A8340;
+}
+a:focus, a:hover{
+  color: #FFC107;
+}
+ a:visited{
+  color: #153949;
+}
+
+footer a{
+  color: #83C98C;
+}
+
+footer a:visited{
+  color: #9ba9b5;
+}
+
+.socialmedia a{
+  color: #C82333;
+}
+.socialmedia a:focus, .socialmedia a:visited{
+  color: #FFC107;
+}

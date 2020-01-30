@@ -3,30 +3,35 @@
   # CTFO
 - id: CTFO-Anti-Aging-Cream-Apple-Stem-Cells
   price: 55.97
+  url: /store/health-wellness/skin-hair/
   description: Our CBD anti-aging cream contains a blend of Apple Stem Cells, Palmitoyl Tetrapeptide-7 & natural hemp oil to promote both vitality & longevity in your skin's stem cells. With daily use, your skin will appear younger, tighter & brighter!
   image: /CTFO/CTFO-antiagingapple.png
   name: Anti-Aging Cream with Apple Stem Cells
 
 - id: CTFO-Sunscreen-Moisturizer-SPF30
   price: 55.97
+  url: /store/health-wellness/skin-hair/
   description: Sunscreen & Moisturizer is a gentle, sheer formula enriched with antioxidants that protect all skin types against aging UVA + burning UVB rays. This water-resistant formula is a 30 SPF, full-spectrum CBD Hemp oil infused sunscreen.
   image: /CTFO/CTFO-spf30.png
   name: Sunscreen & Moisturizer - SPF 30
 
 - id: CTFO-Hair-Growth-Shampoo-with-AnaGain
   price: 65.97
+  url: /store/health-wellness/skin-hair/
   description: AnaGain stimulates specific signal molecules in the hair to reactivate and promote hair growth. AnaGain combined with 50mg of CBD per container helps to give your hair the nourishment and stimulation needed to grow fuller and thicker!
   image: /CTFO/CTFO-shampoo.png
   name: Hair Growth Shampoo with AnaGain
 
 - id: CTFO-Hair-Growth-Conditioner-with-AnaGain
   price: 65.97
+  url: /store/health-wellness/skin-hair/
   description: AnaGain stimulates specific signal molecules in the hair to reactivate and promote hair growth. AnaGain combined with 50mg of CBD per container helps to give your hair the nourishment and stimulation needed to grow fuller and thicker!
   image: /CTFO/CTFO-conditioner.png
   name: Hair Growth Conditioner with AnaGain
 
 - id: CTFO-Hair-Growth-Moisture-Treatment-with-AnaGain
   price: 80.97
+  url: /store/health-wellness/skin-hair/
   description: AnaGain stimulates specific signal molecules in the hair to reactivate and promote hair growth. AnaGain combined with 100mg of CBD per container helps to give your hair the nourishment and stimulation needed to grow fuller and thicker!
   image: /CTFO/CTFO-hairmask.png
   name: Hair Growth Moisture Treatment with AnaGain

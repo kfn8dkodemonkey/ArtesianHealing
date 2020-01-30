@@ -3,18 +3,21 @@
 # CTFO
 - id: CTFO-Pet-Spray-8ml
   price: 40.97
+  url: /store/health-wellness/pets/
   description: Promotes daily health and wellness in your pets. These products can be used as a dietary supplement and do not interact with medications.
   image: /CTFO/CTFO-petspray.jpg
   name: Health & Wellness Spray - 8ml
 
 - id: CTFO-Pet-Spray-100mg
   price: 54.97
+  url: /store/health-wellness/pets/
   description: Promotes daily health and wellness in your pets. These products can be used as a dietary supplement and do not interact with medications.
   image: /CTFO/CTFO-petspray100.jpg
   name: CBD Natural Flavor Spray - 100mg
 
 - id: AN-Pet-Full-Spectrum-500mg
   price: 59.99
+  url: /store/health-wellness/pets/
   description: Promotes daily health and wellness in your pets. This product can be used as a dietary supplement and do not interact with medications.
   image: /Absolute-Natural/DSAN-Full-Spectrum-500mg-Pet-CBD-Oil-30ml.png
   name: Full Spectrum 500mg Drops – 30ml
@@ -22,18 +25,21 @@
 
 - id: CTFO-Pet-Drops-250mg
   price: 55.97
+  url: /store/health-wellness/pets/
   description: Promotes daily health and wellness in your pets. These products can be used as a dietary supplement and do not interact with medications.
   image: /CTFO/CTFO-petspray250.jpg
   name: CBD Natural Flavor Drops - 250mg
 
 - id: CTFO-Pet-Chew-Treates
   price: 55.97
+  url: /store/health-wellness/pets/
   description: A delicious & playful way to make CBD part of your pet’s diet. CBD treats help reduce stress, anxiety and keeping your pet feeling and acting youthful.
   image: /CTFO/CTFO-petchews.png
   name: Chew Treats
 
 - id: CTFO-Pet-Conditioning-Shampoo
   price: 49.97
+  url: /store/health-wellness/pets/
   description: A calming, conditioning shampoo that helps promote healthy skin while leaving their fur bouncy and shiny! Helps fight fur loss and irritation.
   image: /CTFO/CTFO-petshampoo.png
   name: CBD Conditioning Shampoo

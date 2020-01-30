@@ -2,6 +2,7 @@
   # CTFO - 10xPure
 - id: CTFO-10xPURE-Supplement
   price: 65.97
+  url: /store/health-wellness/supplements/
   description: 10xPURE™plus 23 exceptional ingredients are combined in a science-based formulation utilizing the 10xPURE™ patented delivery technology because without penetration and absorption of the key ingredients, nutrients would go to waste and potency would be reduced.
   image: /CTFO/CTFO-10xPure-vitamin.png
   name: 10xPURE Ultimate Multi-Vitamin & Mineral Supplement
@@ -10,12 +11,14 @@
 # CTFO Supplements
 - id: CTFO-CBD-Gummies
   price: 80.97
+  url: /store/health-wellness/supplements/
   description: Gummies have grown up! These colorful little gummies allow you to enjoy the benefits of pure CBD Hemp Oil in a delicious and convenient way. Each gummy contains 20mg of CBD Hemp Oil, helping to promote overall health.
   image: /CTFO/CTFO-cbdgummies.jpg
   name: CBD Gummies - 30 Count
 
 - id: CTFO-Total-Wellness-CBD-Capsules
   price: 65.97
+  url: /store/health-wellness/supplements/
   description: Total Wellness CBD CapsulesEnjoy the benefits of pure CBD extract! Our Total Wellness CBD Veggie Capsules are made with Pure CBD for optimal results. Each capsule contains 10mg of our organically grown, CO2 extracted hemp! Conveniently packaged for traveling.
   image: /CTFO/CTFO-totalwellness.jpg
   name: Total Wellness CBD Capsules
@@ -23,6 +26,7 @@
 # Absolute Natural
 - id: 30mg-Full-Spectrum-cbd-softgels
   price: 89.99
+  url: /store/health-wellness/supplements/
   description: Our premium quality full spectrum CBD Softgels are made with non-GMO hemp, grown in Colorado by local farmers. Our hemp oil is minimally processed, following the highest standards at every step of growing, harvesting, extraction and bottling process.
   image: /Absolute-Natural/DSAN-30mg-Full-Spectrum-cbd-softgels-x-30-NEW-2.png
   name: 30mg Full Spec Softgels 30 count
@@ -30,6 +34,7 @@
 
 - id: FullSpectrum-CBD-Fruit-Slice-Gummies -30mg
   price: 89.99
+  url: /store/health-wellness/supplements/
   description: Our delicious specially crafted all natural Vegan full spectrum CBD fruit slice gummies are made with Organic, non-GMO hemp following the highest standards at every step of growing, harvesting, extraction and bottling process.
   image: /Absolute-Natural/gummies-transparent-bg.png
   name: Full Spectrum CBD Gummies – 30mg

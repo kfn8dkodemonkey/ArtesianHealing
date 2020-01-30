@@ -3,30 +3,35 @@
   # CTFO
 - id: CTFO-UDHRC-Emu-1oz-60mg
   price: 50.97
+  url: /store/health-wellness/pain-relief/
   description: Our Ultimate Deep Healing Relief Cream with 10% Emu Oil contains 60 mg of CBD and helps to deeply penetrate the toughest aches & sore muscles. Natural joint health properties from Emu Oil combined with our intensive hemp formula for the perfect topical relief solution. Apply up to 3-4 times a day to problem areas experiencing tension and discomfort.
   image: /CTFO/paincream1oz.png
   name: Ultimate Deep Healing Relief Cream with Emu Oil 1oz - 60mg CBD
 
 - id: CTFO-UDHRC-EmuOil-2oz-150mg
   price: 65.97
+  url: /store/health-wellness/pain-relief/
   description: Our Ultimate Deep Healing Relief Cream with 10% Emu Oil contains 60 mg of CBD and helps to deeply penetrate the toughest aches & sore muscles. Natural joint health properties from Emu Oil combined with our intensive hemp formula for the perfect topical relief solution. Apply up to 3-4 times a day to problem areas experiencing tension and discomfort.
   image: /CTFO/paincream2oz.png
   name: Ultimate Deep Healing Relief Cream with Emu Oil 2oz - 150mg CBD
 
 - id: CTFO-UDHRC-EmuOil-500mg
   price: 105.97
+  url: /store/health-wellness/pain-relief/
   description: Our Ultimate Deep Healing Relief Cream with 10% Emu Oil and 500mg of CBD helps to deeply penetrate the toughest aches & sore muscles. Natural joint health properties from Emu Oil combined with our intensive hemp formula for the perfect topical relief solution.
   image: /CTFO/500paincream.png
   name: 500mg CBD Ultimate Deep Healing Relief Cream with Emu Oil
 
 - id: CTFO-RFR-1oz
   price: 65.97
+  url: /store/health-wellness/pain-relief/
   description: AOur Relief Freeze Rub freezes out discomfort to soothe you. This is a topical analgesic blended with 50mg of raw CBD to help soothe minor muscle aches and sore joints. Our formula contains menthol and uses cold therapy (Cryotherapy) to help penetrate quickly and offer non-addictive targeted relief at the point of discomfort. Apply up to 3-4 times a day to problem areas experiencing soreness and discomfort.
   image: /CTFO/painfreeze.png
   name: Relief Freeze Rub - 1oz
 
 - id: CTFO-CBD-RROG-100mg
   price: 80.97
+  url: /store/health-wellness/pain-relief/
   description: This is a topical analgesic blended with 100mg of CBD Isolate to help soothe minor muscle aches and sore joints. Our formula contains menthol and uses cold therapy (Cryotherapy) to help penetrate quickly and offer non-addictive targeted relief at the point of discomfort. Apply up to 3-4 times a day to problem areas experiencing soreness and sicomfort.
   image: /CTFO/painrub.png
   name: CBD Relief Roll On Gel - 100mg
@@ -34,6 +39,7 @@
 # Absolute Natral
 - id: 500mg-Topical-Pain-Salve
   price: 79.99
+  url: /store/health-wellness/pain-relief/
   description: Our premium quality CBD Salve is made with non-GMO hemp, grown in Colorado by local farmers. Our hemp oil is minimally processed, following the highest standards at every step of growing, harvesting, extraction and bottling process.
   image: /Absolute-Natural/Full-Spectrum-CBD-Topical-Salve-500mg-CBD-n1.png
   name: 500mg Topical Pain Salve

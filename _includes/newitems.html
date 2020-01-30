@@ -2,7 +2,7 @@
 {% for product in site.data.cbd-tintures %}
   {% if product.category == "new" %}
     <ul class="fa-ul">
-      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span>{{product.name}}</li>
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
@@ -11,7 +11,7 @@
 {% for product in site.data.cbd-pain-relief %}
   {% if product.category == "new" %}
     <ul class="fa-ul">
-      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span>{{product.name}}</li>
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
@@ -20,7 +20,7 @@
 {% for product in site.data.cbd-supplements %}
   {% if product.category == "new" %}
     <ul class="fa-ul">
-      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span>{{product.name}}</li>
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
@@ -29,7 +29,7 @@
 {% for product in site.data.cbd-skin-hair %}
   {% if product.category == "new" %}
     <ul class="fa-ul">
-      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span>{{product.name}}</li>
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
@@ -38,7 +38,7 @@
 {% for product in site.data.cbd-pets %}
   {% if product.category == "new" %}
     <ul class="fa-ul">
-      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span>{{product.name}}</li>
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
     </ul>
   {% endif %}
 {% endfor %}
