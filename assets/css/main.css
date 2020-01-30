@@ -78,11 +78,11 @@ a:focus, a:hover{
   color: #153949;
 }
 
-footer a{
+footer a, .footer a{
   color: #83C98C;
 }
 
-footer a:visited{
+footer a:visited, .footer a:visited {
   color: #9ba9b5;
 }
 
