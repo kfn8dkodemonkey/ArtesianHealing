@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hemp The Powerhouse Plant
+description: Learn how the Hemp plant can be the most powerful plant grown.
 date: 2020-01-24
 category: blog
 permalink: /blog/:title/
