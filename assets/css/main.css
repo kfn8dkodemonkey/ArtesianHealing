@@ -68,7 +68,6 @@ a.skip-main:focus, a.skip-main:active {
 }
 
 a{
-
   color: #3A8340;
 }
 a:focus, a:hover{
@@ -76,6 +75,17 @@ a:focus, a:hover{
 }
  a:visited{
   color: #153949;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-danger:hover, .btn-danger:visited {
+  color: #fff !important;
+  background-color: #c82333;
+  border-color:  #bd2130;
 }
 
 footer a, .footer a{
