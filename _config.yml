@@ -35,6 +35,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+future: false
+show_drafts: false
+
 
 
 # Exclude from processing.
