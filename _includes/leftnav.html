@@ -17,6 +17,7 @@
             <li><a href="{{site.url}}/store/health-wellness/pain-relief/">Pain Relief</a></li>
             <li><a href="{{site.url}}/store/health-wellness/supplements/">Supplements</a></li>
             <li><a href="{{site.url}}/store/health-wellness/skin-hair/">Skin & Hair</a></li>
+            <li><a href="{{site.url}}/store/health-wellness/flower/">Hemp Flower</a></li>
             <li><a href="{{site.url}}/store/health-wellness/pets/">Pets</a></li>
           </ul>
         </div>
@@ -26,14 +27,14 @@
       <div class="card-header" id="headingTwo">
         <h2 class="mb-0">
           <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            Education
+            Spiritual Wellness
           </button>
         </h2>
       </div>
       <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
         <div class="card-body">
           <ul>
-            <li><a href="{{site.url}}/education/">Coming Soon</a></li>
+            <li><a href="{{site.url}}/spiritual-wellness/">Coming Soon</a></li>
           </ul>
         </div>
       </div>
@@ -67,6 +68,13 @@
   <h3><i class="fas fa-archive pr-3"></i>Past Post</h3>
   <div class="list-group">
     {% for post in site.categories.blog %}
+      <a href="{{ post.url | prepend: site.url }}" class="list-group-item">{{ post.title }}</a>
+    {% endfor %}
+  </div>
+{% elsif page.category=="educational" %}
+  <h3><i class="fas fa-archive pr-3"></i>Past Post</h3>
+  <div class="list-group">
+    {% for post in site.categories.educational %}
       <a href="{{ post.url | prepend: site.url }}" class="list-group-item">{{ post.title }}</a>
     {% endfor %}
   </div>

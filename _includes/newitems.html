@@ -42,3 +42,12 @@
     </ul>
   {% endif %}
 {% endfor %}
+
+<!-- New Flower -->
+{% for product in site.data.flower %}
+  {% if product.category == "new" %}
+    <ul class="fa-ul">
+      <li><span class="fa-li" ><i class="far fa-check-circle text-warning"></i></span><a href="{{site.url}}{{product.url}}">{{product.name}}</a></li>
+    </ul>
+  {% endif %}
+{% endfor %}

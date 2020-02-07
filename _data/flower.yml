@@ -1,0 +1,91 @@
+---
+
+- id: Flower-Hawaiian-Haze
+  price-range: $11.50 - $125.00
+  price: 0.00
+  url: /store/health-wellness/flower/
+  flower-url: Hawaiian-Haze
+  description: Our Hawaiian Haze Hemp flower comes from small specialist craft hemp flower growers. State registered and licensed. It’s hand-trimmed & slow cured for the best possible taste and powerful effects. These Hawaiian haze hemp flowers are covered in trichomes, nice and frosty. Just how you like them!
+  genetics: DC Haze x ERB
+  type: Hybrid
+  aroma: Sweet, Earthy, Piney, Cinnamon, Fress, Tropical Fruits
+  cbd-cbda: 16.8%
+  cbd: 168.3 mg/g
+  cannabinoids: 20.67%
+  cannabinoids-mg-g: 206.7 mg/g
+  terpenes: Myrcene, Caryophyllene,Pinene, limonene
+  terpenes-percent: -1.8%
+  effects: Big hitter for relief. Can be sativa-like or energetic in smaller quantities. Larger quantities calming, relaxing and mellow.
+  name1: 1.0g
+  cost1: 11.50
+  name2: 3.5g (1/8oz)
+  cost2: 35.00
+  name3: 7g (1/4oz)\
+  cost3: 45.00
+  name4: 14g (1/2oz)
+  cost4: 80.00
+  name5: 28g (1oz)
+  cost5: 125.00
+  image: /Flower/Hawaiian-Haze-CBD-Flower-buds-600x600.png
+  name: Hawaiian Haze CBD Hemp Flower
+  category: new
+
+- id: Flower-Suver-Haze
+  price-range: $11.50 - $125.00
+  price: 0.00
+  url: /store/health-wellness/flower/
+  flower-url: Suver-Haze
+  description: Our Suver Haze Hemp flower is sourced from small, specialist, craft hemp flower growers. State registered, licensed, and legally compliant. It’s hand-trimmed & slow cured for the best possible quality, taste, powerful effects, and demanding standards our customers expect. These Suver haze hemp flowers smell absolutely divine, they’re covered in trichomes, and nice and frosty. Exactly how you like them!
+  genetics: Suver #8 x ERB
+  type: Sativa-dominant Hybrid
+  aroma: Loud, Hops, complex, fresh, skunky, sweet, fruity and spicy
+  cbd-cbda: 17.54%
+  cbd: 187.8 mg/g
+  cannabinoids: 21.51%
+  cannabinoids-mg-g: 215.1 mg/g
+  terpenes: β-Myrcene, β-Caryophyllene, Ocimene, δ-Limonene
+  terpenes-percent: -1.7%
+  effects: Big hitter for relief. full-body, comforting, soothing, relaxation, and sleep.
+  name1: 1.0g
+  cost1: 11.50
+  name2: 3.5g (1/8oz)
+  cost2: 35.00
+  name3: 7g (1/4oz)
+  cost3: 45.00
+  name4: 14g (1/2oz)
+  cost4: 80.00
+  name5: 28g (1oz)
+  cost5: 125.00
+  image: /Flower/suver_haze_store.jpg
+  name: Suver Haze CBD Hemp Flower
+  category: new
+
+- id: Flower-T1-CBD
+  price-range: $11.50 - $125.00
+  price: 0.00
+  url: /store/health-wellness/flower/
+  flower-url: T1-Trump
+  description: Our T1 AKA ‘Trump’ Hemp flower, is sourced from small, specialist, craft hemp flower growers. State registered, licensed, and legally compliant. It’s hand-trimmed & slow cured for the best possible quality, taste, powerful effects, and demanding standards our customers expect. These T1 hemp flowers smell absolutely divine, they’re covered in trichomes, and beautiful and frosty. Exactly how you like them!
+  genetics: The Wife and the Afghan Skunk
+  type: Indica Hybrid
+  aroma: Loud, Hops, complex, fresh, skunky, sweet, fruity and spicy
+  cbd-cbda: 17.44%
+  cbd: 174.4 mg/g
+  cannabinoids: 21.34%
+  cannabinoids-mg-g: 213.4 mg/g
+  terpenes: β-Myrcene, β-Caryophyllene, α-Pinene, δ-Limonene, α-Humulene
+  terpenes-percent: -2.2%
+  effects: Big hitter for relief. full body, comforting, soothing, relaxation and sleep.
+  name1: 1.0g
+  cost1: 11.50
+  name2: 3.5g (1/8oz)
+  cost2: 35.00
+  name3: 7g (1/4oz)
+  cost3: 45.00
+  name4: 14g (1/2oz)
+  cost4: 80.00
+  name5: 28g (1oz)
+  cost5: 125.00
+  image: /Flower/T1-Trump-CBD-Hemp-Flower-Store.jpg
+  name: T1 (Trump) CBD Hemp Flower
+  category: new

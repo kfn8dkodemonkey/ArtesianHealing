@@ -1,7 +1,14 @@
 ---
 layout: page
 ---
-
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+{% if page.category=="educational" %}
+  <div class="row">
+    <div class="col">
+      <img src="{{site.url}}/assets/images/product/{{page.image}}" alt="{{page.title}}" class="img-fluid img-thumbnail">
+    </div>
+  </div>
+  <hr />
+{% endif %}
+<p>{{ page.date | date_to_string }}</p>
 
 {{ content }}

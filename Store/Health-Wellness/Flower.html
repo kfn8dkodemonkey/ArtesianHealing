@@ -1,0 +1,55 @@
+---
+layout: store
+title: Health & Wellness
+description: We sell nothing but the best quality CBD Hemp flower available in different flavor strains at the best price!
+subtitle: Flower
+category: store
+permalink: store/health-wellness/flower/
+---
+
+<div class="row">
+  {% for product in site.data.flower %}
+  <div class="col-lg-10">
+    <div class="card mb-3">
+      <div class="row no-gutters">
+        <div class="col-md-4">
+          <img src="{{site.url}}/assets/images/product/{{product.image}}" alt="{{product.name}}" class="card-img mt-5">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{site.url}}/educational/{{product.flower-url}}/">{{product.name}}</a></h5>
+            <h4>{{product.price-range}}</h4>
+            <p class="card-text">{{product.description}}</p>
+            <hr />
+            <p class="card-text"><strong>Genetics</strong>: {{product.genetics}} <br />
+            <strong>Type</strong>: {{product.type}} <br />
+            <strong>Areoma</strong>: {{product.aroma}}<br />
+            <strong>Total CBD (CBD+CBDA)%</strong>: {{product.cbd-cbda}}<br />
+            <strong>Total CBD</strong>: {{product.cbd}}<br />
+            <strong>Total Cannabinoids</strong>: {{product.cannabinoids}}<br />
+            <strong>Total Cannabinoids per mg/g</strong>: {{product.cannabinoids-mg-g}}<br />
+            <strong>Terpenes</strong>: {{product.terpenes}}<br />
+            <strong>Effects</strong>: {{product.effects}}</p>
+
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
+            <button class="ml-5 btn btn-sm btn-danger snipcart-add-item"
+              data-item-id="{{product.id}}"
+              data-item-price="{{product.price}}"
+              data-item-url="{{site.url}}/store/health-wellness/pets"
+              data-item-description="{{product.description}}"
+              data-item-image="{{site.url}}/assets/images/product/{{product.image}}"
+              data-item-name="{{product.name}}"
+              data-item-custom1-name="Weight"
+              data-item-custom1-options="{{product.name1}}[+{{product.cost1}}]|{{product.name2}}[+{{product.cost2}}]|{{product.name3}}[+{{product.cost3}}]|{{product.name4}}[+{{product.cost4}}]|{{product.name5}}[+{{product.cost5}}]">
+              Buy Now!
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<!-- /.row -->
