@@ -4,7 +4,7 @@ title: Suver Haze
 description: Suver Haze CBD Hemp Flower additional information.
 date: 2020-02-06
 category: educational
-image: Flower/suver-haze-banner.jpg
+image: product/Flower/suver-haze-banner.jpg
 permalink: /educational/:title/
 ---
 <h2>Overview</h2>

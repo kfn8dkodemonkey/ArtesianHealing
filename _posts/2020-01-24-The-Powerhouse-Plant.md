@@ -3,10 +3,12 @@ layout: post
 title: Hemp The Powerhouse Plant
 description: Learn how the Hemp plant can be the most powerful plant grown.
 date: 2020-01-24
+image: blog/Hemp-The-Powerhouse-Plant.jpg
 category: blog
 permalink: /blog/:title/
 ---
 
+<h2>{{page.title}}</h2>
 <p>CBD is not only safe but is an extremely powerful plant for health and wellness. Studies from the World Health Organisation (WHO) reveal that CBD has no adverse health effects. Although CBD is the most noted molecular in hemp there are many others that can contribute to the plant making it a powerhouse of health and wellness.</p>
 
 <h2>Hundreds of Cannabinoids</h2>

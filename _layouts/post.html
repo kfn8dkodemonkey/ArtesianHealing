@@ -1,14 +1,15 @@
 ---
 layout: page
 ---
-{% if page.category=="educational" %}
+
   <div class="row">
     <div class="col">
-      <img src="{{site.url}}/assets/images/product/{{page.image}}" alt="{{page.title}}" class="img-fluid img-thumbnail">
+      <img src="{{site.url}}/assets/images/{{page.image}}" alt="{{page.title}}" class="img-fluid img-thumbnail">
     </div>
   </div>
-  <hr />
-{% endif %}
-<p>{{ page.date | date_to_string }}</p>
+
+<p class="mt-1">{{ page.date | date_to_string }}</p>
+
+<hr />
 
 {{ content }}
