@@ -7,6 +7,12 @@ category: educational
 image: Flower/Hawaiian-Haze-Hemp-Flower-Close-Up.jpg
 permalink: /educational/:title/
 ---
+<h2>Overview</h2>
+<p>Our Hawaiian Haze Hemp flower comes from small specialist craft hemp flower growers. State registered and licensed. It’s hand-trimmed & slow cured for the best possible taste and powerful effects. These Hawaiian haze hemp flowers are covered in trichomes, nice and frosty. Just how you like them!</p>
+
+<p>We know you’ll absolutely love these HH flower buds!</p>
+
+<p>This product gets delivered in recyclable glass jars with childproof lids.</p>
 
 <h2>Genetics:</h2>
 

@@ -7,6 +7,13 @@ category: educational
 image: Flower/suver-haze-banner.jpg
 permalink: /educational/:title/
 ---
+<h2>Overview</h2>
+
+<p>Our Suver Haze Hemp flower is sourced from small, specialist, craft hemp flower growers. State registered, licensed, and legally compliant. It’s hand-trimmed & slow cured for the best possible quality, taste, powerful effects, and demanding standards our customers expect. These Suver haze hemp flowers smell absolutely divine, they’re covered in trichomes, and nice and frosty. Exactly how you like them!<?p>
+
+<p>We know you’ll absolutely love this strain of hemp flower, and you’ll be wanting more!</p>
+
+<p>These buds get delivered in recyclable glass jars with childproof lids.</p>
 
 <h2>Genetics:</h2>
 
