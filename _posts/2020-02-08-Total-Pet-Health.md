@@ -18,7 +18,7 @@ permalink: /blog/:title/
 
 <p>With an average of 600 drops in each bottle, giving your pet 1 to 4 drops per day, this bottle will last up to 5 months or more.</p>
 
-<p>We use <a href="{{site.urel}}/blog/mtc-oil">MCT oil</a> (fractionated Coconut oil) as the carrier for additional health benefits for pets as well as increasing CBD absorption rates. Only the best ingredients make it into our unique formula.</p>
+<p>We use <a href="{{site.urel}}/blog/Benefits-MTC-Oil-CBD/">MCT oil</a> (fractionated Coconut oil) as the carrier for additional health benefits for pets as well as increasing CBD absorption rates. Only the best ingredients make it into our unique formula.</p>
 
 <h2>Why MTC is good for your pets.</h2>
 
