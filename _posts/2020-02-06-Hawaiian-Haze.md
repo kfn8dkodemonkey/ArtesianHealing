@@ -4,7 +4,7 @@ title: Hawaiian Haze
 description: Hawaiian Haze Hemp flower additional information.
 date: 2020-02-06
 category: educational
-image: Flower/Hawaiian-Haze-Hemp-Flower-Close-Up.jpg
+image: product/Flower/Hawaiian-Haze-Hemp-Flower-Close-Up.jpg
 permalink: /educational/:title/
 ---
 <h2>Overview</h2>
